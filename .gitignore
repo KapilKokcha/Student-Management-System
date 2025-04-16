@@ -1,0 +1,38 @@
+# Java
+*.class
+*.log
+*.ctxt
+*.jar
+*.war
+*.ear
+
+# Maven
+target/
+!src/main/resources/static/
+!src/main/resources/templates/
+
+# Logs
+*.log
+logs/
+*.out
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# VS Code
+.vscode/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+
+# Test reports
+/test-output/
+
