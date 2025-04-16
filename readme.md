@@ -92,7 +92,8 @@ All Student endpoints are under `/api/students`
 All admin routes require authentication:
 /api/admin/**
 
-## Pending enhancements:
+## Pending and future enhancements:
+- Project can be dockerized for easy setup and run.
 - Student login can be handled properly with tokens.
 - Swagger Integration for API documentation
 - DTO Layer with mappings between DTO and Entity
